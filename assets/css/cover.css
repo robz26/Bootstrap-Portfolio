@@ -204,6 +204,9 @@ h1 {
   #AboutContent{
     top: 37%;
   }
+  #ContactInfo{
+    top: 38%;
+  }
   #emailLink{
     bottom: 76px;
     font-size: 16px;
@@ -245,6 +248,12 @@ h1 {
     position: unset;
     opacity: 0.45;
     font-size: 120px;
+  }
+  #ContactInfo,{
+    top: 50%;
+  }
+  #AboutContent{
+    top: 50%;
   }
   h1 {
     font-size: 120px;
